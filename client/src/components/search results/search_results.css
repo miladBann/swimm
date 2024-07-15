@@ -1,0 +1,15 @@
+.no_results {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.36px;
+    text-align: left;
+    color: #000000;
+
+}
+
+@media (max-width: 768px) {
+    .no_results {
+        padding-left: 20px;
+
+    }
+}
